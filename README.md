@@ -1,1 +1,1 @@
-# wsse-demo
+# openapi-go-demo
